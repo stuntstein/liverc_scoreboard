@@ -1,0 +1,16 @@
+{
+    "track": "The Racers Den",
+    "title": "Off-Road Spring Series",
+    "logo": "https://assets.livetimescoring.com/track_logos/7295/7295_logo.png",
+    "output_file": "index.html",
+    "max_points": 100,
+    "points_gap": 3,
+    "pole_position_points": 2,
+    "series_length": 4,
+    "races": [
+        "https://theracersden.liverc.com/results/?p=view_heat_sheet&id=10164678",
+        "https://theracersden.liverc.com/results/?p=view_heat_sheet&id=10224981",
+        "https://theracersden.liverc.com/results/?p=view_heat_sheet&id=10243029",
+        "https://theracersden.liverc.com/results/?p=view_heat_sheet&id=10365800"
+    ]
+}
